@@ -68,7 +68,8 @@ This project analyzes client data for a fictional bank, **Dominion Capital**, to
 | File Name                      | Description                                |
 |-------------------------------|--------------------------------------------|
 | `Data Modeling and EDA.sql`   | SQL for database setup and data views      |
-| `Data Modeling & Prediction.ipynb` | Python notebook for modeling and EDA      |
+| `Client Segmentation & Credit Risk Analysis.ipynb` | Python notebook for modeling and EDA      |
+| `Compiled_Dataset.csv`  | Original Dataset |
 | `Risk_Prediction_Output.csv`  | Final dataset with segmentation & prediction |
 | `README.md`                   | Project summary and documentation          |
 
