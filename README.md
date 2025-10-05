@@ -2,7 +2,7 @@
 
 This project analyzes client data for a fictional bank, **Dominion Capital**, to segment banking clients and identify patterns in credit risk using SQL and machine learning in Python. The dataset was sourced from Kaggle and enriched through structured data modeling and feature engineering.
 
----
+
 
 ## 📌 Project Objectives
 
@@ -11,7 +11,7 @@ This project analyzes client data for a fictional bank, **Dominion Capital**, to
 - Identify key financial drivers behind high-risk client profiles
 - Prepare the final dataset for dashboarding in Tableau (future enhancement)
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -21,7 +21,6 @@ This project analyzes client data for a fictional bank, **Dominion Capital**, to
 - **Jupyter Notebook** – For analysis and model building
 - **Tableau** – (Planned) for client risk dashboarding
 
----
 
 ## 🧱 Project Workflow
 
@@ -46,7 +45,6 @@ This project analyzes client data for a fictional bank, **Dominion Capital**, to
    - Created a prediction-ready dataset: `Risk_Prediction_Output.csv`
    - Includes all features, cluster labels, and risk category predictions
 
----
 
 ## 📈 Key Features Used
 
@@ -54,8 +52,6 @@ This project analyzes client data for a fictional bank, **Dominion Capital**, to
 - Financials: Estimated Income, Credit Card Balance, Bank Loans
 - Behavior: Client Tenure, Loyalty Classification, Banking Relationship
 - Engineered: Total Lending, Liquidity Ratio, Cluster Label
-
----
 
 ## 🚀 Future Enhancements
 
@@ -66,7 +62,6 @@ This project analyzes client data for a fictional bank, **Dominion Capital**, to
 - Benchmark against **XGBoost** or **LightGBM**
 - Deploy model as part of a **real-time client scoring tool**
 
----
 
 ## 📂 Files in Repository
 
@@ -77,6 +72,5 @@ This project analyzes client data for a fictional bank, **Dominion Capital**, to
 | `Risk_Prediction_Output.csv`  | Final dataset with segmentation & prediction |
 | `README.md`                   | Project summary and documentation          |
 
----
 
 
